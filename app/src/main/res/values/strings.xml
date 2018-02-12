@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">pushnotificationuserend</string>
+    <string name="title_activity_notifiactiontarget">notifiactiontarget</string>
 </resources>
